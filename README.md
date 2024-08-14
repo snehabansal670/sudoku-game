@@ -29,7 +29,7 @@ This is a fully functional Sudoku game built using HTML, CSS, and JavaScript. Th
 
 ### Visual Demo
 
-![Demo GIF](sudoku-game-psi-sooty.vercel.app)
+[vercel app link demo](sudoku-game-psi-sooty.vercel.app)
 
 ### Live Preview
 
