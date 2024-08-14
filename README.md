@@ -27,10 +27,6 @@ This is a fully functional Sudoku game built using HTML, CSS, and JavaScript. Th
 3. **Check Progress**: Use the "Check" button to verify if your current entries are correct.
 4. **Get Hints**: Click the "Hint" button to get a clue for a cell that you might be stuck on.
 
-### Visual Demo
-
-[vercel app link demo](sudoku-game-psi-sooty.vercel.app)
-
 ### Live Preview
 
 Check out the live version of the Sudoku Game on GitHub Pages:  
